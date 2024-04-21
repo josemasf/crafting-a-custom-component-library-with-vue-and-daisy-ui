@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { link } from 'fs'
 import { computed } from 'vue'
 
 const props = defineProps<{
